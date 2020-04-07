@@ -1,0 +1,19 @@
+.main {
+  min-height: 750px;
+}
+/* #Enter_task {
+  border-color: none;
+} */
+.list_div {
+  margin-bottom: 200px;
+}
+.todo_list {
+  min-height: 450px;
+}
+.todo_item {
+  background-color: whitesmoke;
+}
+img.delete {
+  width: 20px;
+  pointer-events: none;
+}
